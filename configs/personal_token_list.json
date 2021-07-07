@@ -1,0 +1,20 @@
+{
+    "tokens": [
+        {
+            "name": "CoinX",
+            "symbol": "CoX",
+            "address": "0x5C08879F5f480659f3601A8fA2D91D03911BD8D8",
+            "chainId": 56,
+            "decimals": 8,
+            "logoURI": ""
+        },
+        {
+            "name": "test1",
+            "symbol": "test1",
+            "address": "test1",
+            "chainId": 56,
+            "decimals": 8,
+            "logoURI": "test1"
+        }
+    ]
+}

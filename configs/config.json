@@ -1,0 +1,16 @@
+{
+    "api_id": 675426,
+    "api_hash": "3f28feb...f5b17",
+
+    "wallet_address" : "0x293...8bAFe",
+    "private_key" : "6f....95",
+    
+    "bnb_value" : "0.001",
+    "slippage_percentage" : "1",
+
+    "channel": "binance_announcements",
+    "update_to": "me",
+
+    "gas" : 241946,
+    "gasPrice": "0.00000002"
+}
