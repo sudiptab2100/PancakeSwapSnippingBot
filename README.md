@@ -13,7 +13,8 @@
 - Clone the repo and install following python packages
   - telethon
   - web3
-  - github
+  - PyGithub
+
 - Now goto configs/config.json file and configure it with your details
   - Set your api_id of telegram
   - Set your api_hash of telegram
